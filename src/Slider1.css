@@ -1,0 +1,12 @@
+/* ImageSlider.css */
+
+.slick-slider {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .slick-slide img {
+    width: 100%;
+    height: auto;
+  }
+  
